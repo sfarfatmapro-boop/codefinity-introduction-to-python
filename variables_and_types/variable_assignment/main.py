@@ -1,5 +1,8 @@
-
-
+# Define the grocery-item variables
+item_name = "Eggs"             # Assign a string for the item name
+item_price = 3.99              # Assign a float for the price per unit
+item_stock_quantity = 120      # Assign an integer for the quantity in stock
+in_stock = True                # Assign a boolean value indicating if eggs are in stock
 
 # Testing
 print("Item : ", item_name)
